@@ -1,0 +1,5 @@
+{
+    "PortNum": 9999,
+    "TemplateDir": "example/templates",
+    "PublicDir": "example/public"
+}
